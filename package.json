@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rellow09-code/2769364-SD-lab5.git"
+  },
+  "author": "Rellow09-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rellow09-code/2769364-SD-lab5/issues"
+  },
+  "homepage": "https://github.com/Rellow09-code/2769364-SD-lab5#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
